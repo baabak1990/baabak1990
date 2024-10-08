@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Very passionate .Net Backend Developer From Iran<br>I am Alway Keen To Learn New Technologies And I Like To Extend My Knowledge.<br>I Strated My Career When I was 17 . From 4 Years Ago I Started To Work With Microsoft<br>.NET Freamework And I Worked on <br>so many Projects by Using C# Language and ASP .NET .<br>I Also Have Experiences With MAUI , Blazor .<br>   
+I am Very passionate .Net Backend Developer From Iran<br>I am Alway Keen To Learn New Technologies And I Like To Extend My Knowledge.<br>I Strated My Career When I was 17 . From 6 Years Ago I Started To Work With Microsoft<br>.NET Freamework And I Worked on <br>so many Projects by Using C# Language and ASP .NET .<br>I Also Have Experiences With MAUI , Blazor .<br>   
 
 
 ## 🌐 Socials:
